@@ -1,0 +1,32 @@
+.main-box {
+    margin-left: -20rem;
+    position: relative;
+}
+
+.popup {
+    height: 120px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 3rem;
+    background-color: rgba(39, 38, 38, 0.747);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.popup button{
+    background-color: transparent;
+    position: absolute;
+    margin-left: 34rem;
+    margin-top: -9rem;
+    color: red;
+}
+
+/* .popup .fa-times {
+    margin: -6rem 4rem;
+    font-size: 2rem;
+    color: red;
+    position: absolute;
+} */

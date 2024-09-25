@@ -1,13 +1,16 @@
 import { useState } from 'react'
 import './App.css'
-
+import Navbar from "./Navbar"
+import Product from "./Product"
+import Popup from "./Popup.jsx";
 function App() {
-  
 
   return (
-   <div>
-      amarverma9627@gmail.com
-   </div>
+    <div>
+      <Navbar />
+      <Product />
+      <Popup />
+    </div>
   )
 }
 

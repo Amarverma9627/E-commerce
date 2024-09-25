@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    scroll-behavior: none;
+    outline: none;
+}
+:root{
+    --bg-black:black;
+    --bg-color: #000000d7;
+    --bg-fade:#000000b6;
+}
